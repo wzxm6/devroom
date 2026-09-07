@@ -46,8 +46,8 @@ DevRoom is a focused, high-performance private collaboration web application eng
 
 ### 2. Clone & Install Dependencies
 ```bash
-git clone <your-repo-url>
-cd chat
+git clone https://github.com/wzxm6/devroom.git
+cd devroom
 npm install
 ```
 
